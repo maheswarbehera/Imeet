@@ -1,0 +1,39 @@
+.login_card, .signup_card {
+    border-radius: 30px;
+    background: var(--primary-bg, #FFF);
+    box-shadow: 0px 4px 10px 2px rgba(0, 0, 0, 0.25);
+    margin: 100px 0;
+    padding: 40px;
+}
+h1{
+    color: #000;
+    font-family: Reem Kufi Fun;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+    padding-bottom: 20px;
+}
+.btn{
+    border-radius: 10px;
+    background: var(--footer-stripe, #0E2A47);
+}
+.forgot{
+    color: #000;
+    text-align: center;
+    font-family: Arial;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.google{
+    border-radius: 10px;
+background: var(--background-primary, #121212);
+}
+.input-border{
+    border-radius: 10px;
+border: 0.6px solid #000;
+background: #FFF;
+}

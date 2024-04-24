@@ -1,0 +1,29 @@
+.container-fluid{ 
+    background: var(--primary-bg, #FFF);
+    box-shadow: 0px 4px 17px 4px rgba(0, 0, 0, 0.25);
+  }
+  .header-nav{
+    max-width: 1440px;
+    height: 100px;
+    margin: auto;    
+    padding-top: 18px;
+  }
+  .navbar-brand, .header-text, .nav-item{
+    color:  #635DFF;
+    font-family: Reem Kufi Fun;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+    color:  #635DFF;
+}
+.out-line-btn{
+    border-radius: 10px;
+border: 0.2px solid #000;
+width: 138px;
+height: 41px;
+flex-shrink: 0;
+}
+  

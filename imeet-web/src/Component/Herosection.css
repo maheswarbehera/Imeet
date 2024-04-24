@@ -1,0 +1,17 @@
+.hero-head{
+    color: var(--footer-bg, #08192B);
+    text-align: center;
+    font-family: Mitr;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.info{
+    color: #000;
+    font-family: Arial;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
